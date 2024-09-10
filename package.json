@@ -1,0 +1,17 @@
+{
+  "name": "twitch-bot",
+  "version": "1.0.0",
+  "author": {
+    "name": "Clemens Hoffmann aka. Paranoia8972",
+    "email": "hello@ecyt.dev"
+  },
+  "description": "",
+  "main": "bot.js",
+  "type": "module",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "tmi.js": "^1.8.5"
+  }
+}
